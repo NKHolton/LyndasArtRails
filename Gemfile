@@ -46,5 +46,7 @@ group :development do
 
 
   gem 'rails_12factor', group: :production
+
+  gem 'high_voltage', '~> 3.0.0'
 end
 
